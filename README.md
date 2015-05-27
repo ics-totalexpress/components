@@ -1,2 +1,2 @@
 # components
-Total
+New components
